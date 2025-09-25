@@ -1,15 +1,15 @@
-<h1>Hi 👋, I'm a Frontend & Backend Developer | Building Web Experiences with React & Node.js</h1>
+<h1>Hi 👋, I'm a Frontend & Backend Developer | Building Web & Mobile Experiences with React, React Native & Node.js</h1>
 
 <p align="left">
 Hey there! 👋 I'm Joseph George Nessim, a passionate developer who loves crafting beautiful, responsive UIs and building powerful backend systems.<br><br>
 
-💻 <strong>Tech Stack:</strong> React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, Express, MongoDB, SQL, PostgreSQL, Git, and more.<br><br>
+💻 <strong>Tech Stack:</strong> React, React Native, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, Express, MongoDB, SQL, PostgreSQL, Git, and more.<br><br>
 
-🚀 <strong>What I Do:</strong> I enjoy creating smooth and dynamic user interfaces, building scalable APIs, and connecting the dots between frontend and backend.<br><br>
+🚀 <strong>What I Do:</strong> I enjoy creating smooth and dynamic user interfaces, building scalable APIs, developing cross-platform mobile apps, and connecting the dots between frontend, backend, and mobile.<br><br>
 
-🌱 <strong>Always Learning:</strong> Whether it's a new frontend library or a backend tool, I'm always curious and trying out something new to level up.<br><br>
+🌱 <strong>Always Learning:</strong> Whether it's a new frontend library, a backend tool, or a mobile development framework, I'm always curious and trying out something new to level up.<br><br>
 
-🔧 <strong>Projects:</strong> Feel free to explore my repositories — from small UI components to full-stack apps with authentication, REST APIs, and database integration.<br><br>
+🔧 <strong>Projects:</strong> Feel free to explore my repositories — from small UI components to full-stack apps with authentication, REST APIs, database integration, and mobile apps built with React Native.<br><br>
 
 📫 <strong>Let’s Connect:</strong> Got a project idea? Feedback? Or just want to say hi? Email me at josephgeorgenessim@gmail.com — I’d love to chat!
 </p>
